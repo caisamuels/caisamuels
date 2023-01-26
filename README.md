@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caisamuels
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning MYSQL
+- 🌱 I’m currently researching AI
 - 📫 You can reach me at cai@cais.dev
 
 <!---
