@@ -4,7 +4,7 @@ I'm a passionate and dedicated **Software Developer** from North Wales, bringing
 
 ## About Me
 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Based in Wales
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Based in North Wales
 - 🎓 First-class BSc (Hons) in Computer Science
 - 💻 Interested in Web Development and Machine Learning
 - 🌱 Always learning and exploring new technologies
